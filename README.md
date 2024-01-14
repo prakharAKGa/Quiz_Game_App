@@ -1,16 +1,27 @@
-# app1
+# Flutter Quiz App
 
-A new Flutter project.
+A mobile application built with Flutter that allows users to answer a series of questions and earn points based on their responses.
+
+## Features
+
+- **Quiz Questions:** The app presents users with a set of questions.
+- **Answering:** Users can select their answers from the provided options.
+- **Scoring:** Points are awarded based on correct answers.
+- **Results:** Users can view their total score after completing the quiz.
+
+## Screenshots
+
+[Insert screenshots or GIFs of your app in action]
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/) installed on your machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/quiz-app-flutter.git
